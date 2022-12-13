@@ -95,6 +95,7 @@ nav {
   border-radius: 40px;
   cursor: pointer;
   margin: 15px 0;
+  border: none;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   background-color: hsl(198, 60%, 50%);
